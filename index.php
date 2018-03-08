@@ -14,7 +14,7 @@ $S = PI * $r * $r;
 define ("r", 5);
 echo "S = PI * r * r =",PI "*$r * $r = $S";
 echo ""
-
+// test commit Koky
 
 ?>
 </body>
